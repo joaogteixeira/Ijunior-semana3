@@ -15,3 +15,7 @@ Um sistema simples para gerenciar produtos em estoque, feito em TypeScript para 
 1. **Instale** (precisa do Node.js instalado):
 ```bash
 npm install
+
+2. **Rodae**:
+```bash
+npm start
