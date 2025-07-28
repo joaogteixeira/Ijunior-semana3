@@ -1,0 +1,11 @@
+# Dependências
+node_modules/
+dist/
+
+# Ambiente
+.env
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
