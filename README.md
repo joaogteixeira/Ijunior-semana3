@@ -12,10 +12,9 @@ Um sistema simples para gerenciar produtos em estoque, feito em TypeScript para 
 
 ## 🛠 Como Usar
 
+
 1. **Instale** (precisa do Node.js instalado):
 ```bash
-npm install
+npm install 
 
-2. **Rodae**:
-```bash
 npm start
